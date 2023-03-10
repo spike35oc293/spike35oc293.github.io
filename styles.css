@@ -1,0 +1,67 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+}
+
+body {
+	background-color: #efefef;
+	width: 960px;
+	margin: 0 auto;
+}
+nav {
+	padding: 10px;
+	margin: 10px;}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+article {
+
+}
+dl {
+
+
+}
+
+
+
+
+
+
+.wall {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 270px;
+	float: left;
+}
+
+.match {
+font: serif;
+display: inline;
+padding: 40px;
+width: 50px;
+
+}
+
+.club {
+
+margin-top: 100px;
+
+
+}
